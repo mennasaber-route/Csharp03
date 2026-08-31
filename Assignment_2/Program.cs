@@ -63,6 +63,23 @@ namespace Assignment_2
             //Console.WriteLine(pagesString.GetType()); 
 
             #endregion
+
+
+
+            #region Question10
+            ////Declare int copies = 100;. Box it into an object variable,
+            ////then unbox it back into a new int variable, and print both.
+
+
+            //int copies = 100;
+            //object objcopies = copies;
+            //Console.WriteLine(objcopies);
+
+            //int newCopies = (int)objcopies;
+            //Console.WriteLine(newCopies);
+
+
+            #endregion
         }
     }
 }
